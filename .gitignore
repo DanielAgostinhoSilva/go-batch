@@ -18,3 +18,5 @@
 *.iml
 *.ipr
 .DS_STORE
+
+dev/temp/
